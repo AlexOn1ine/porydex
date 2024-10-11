@@ -635,7 +635,7 @@
 					matchLength -= tagStart - matchStart;
 					matchStart = tagStart;
 				}
-				name += '<small>' + location.name.substr(tagStart, matchStart - tagStart) + '<b>' + location.name.substr(matchStart, matchLength) + '</b>' + move.name.substr(matchStart + matchLength) + '</small>';
+				name += '<small>' + location.name.substr(tagStart, matchStart - tagStart) + '<b>' + location.name.substr(matchStart, matchLength) + '</b>' + location.name.substr(matchStart + matchLength) + '</small>';
 			} else {
 				name += '<small>' + location.name.substr(tagStart) + '</small>';
 			}

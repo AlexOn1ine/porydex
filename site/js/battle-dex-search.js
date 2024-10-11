@@ -1429,6 +1429,9 @@ var BattleLocationSearch = /** @class */ (function (_super) {
         }
         return results;
     };
+    BattleLocationSearch.prototype.getBaseResults = function () {
+        return this.getDefaultResults();
+    };
     BattleLocationSearch.prototype.filter = function (row, filters) {
         if (!filters)
             return true;

@@ -324,7 +324,15 @@ def zip_evos(all_data: dict,
                     | ExpansionEvoMethod.RECOIL_DAMAGE_MALE \
                     | ExpansionEvoMethod.RECOIL_DAMAGE_FEMALE \
                     | ExpansionEvoMethod.DEFEAT_WITH_ITEM \
-                    | ExpansionEvoMethod.OVERWORLD_STEPS:
+                    | ExpansionEvoMethod.OVERWORLD_STEPS \
+                    | ExpansionEvoMethod.LEVEL_JOLTEON \
+                    | ExpansionEvoMethod.LEVEL_VAPOREON \
+                    | ExpansionEvoMethod.LEVEL_FLAREON \
+                    | ExpansionEvoMethod.LEVEL_ESPEON \
+                    | ExpansionEvoMethod.LEVEL_UMBREON \
+                    | ExpansionEvoMethod.LEVEL_LEAFEON \
+                    | ExpansionEvoMethod.LEVEL_GLACEON \
+                    | ExpansionEvoMethod.LEVEL_SYLVEON:
                     pass
 
                 # These evo methods interpret the parameter as a minimum level

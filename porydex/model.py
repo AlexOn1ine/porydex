@@ -124,6 +124,14 @@ class ExpansionEvoMethod(enum.Enum):
     ITEM_COUNT_999 = enum.auto()
     DEFEAT_WITH_ITEM = enum.auto()
     OVERWORLD_STEPS = enum.auto()
+    LEVEL_JOLTEON = enum.auto()
+    LEVEL_VAPOREON = enum.auto()
+    LEVEL_FLAREON = enum.auto()
+    LEVEL_ESPEON = enum.auto()
+    LEVEL_UMBREON = enum.auto()
+    LEVEL_LEAFEON = enum.auto()
+    LEVEL_GLACEON = enum.auto()
+    LEVEL_SYLVEON = enum.auto()
 
 @dataclasses.dataclass
 class EvoMethod():
@@ -185,5 +193,13 @@ EVO_METHOD: list[EvoMethod] = [
     EvoMethod('levelExtra', 'with 999 coins in the bag'), # Gholdengo
     EvoMethod('levelExtra', 'after defeating 3 Pokémon which are holding a Leader\'s Crest'), # Kingambit
     EvoMethod('levelExtra', 'after walking 1000 steps'), # Pawmot, Brambleghast, Rabsca
+    EvoMethod('other', 'level 25 based on personality'),
+    EvoMethod('other', 'level 25 based on personality'),
+    EvoMethod('other', 'level 25 based on personality'),
+    EvoMethod('other', 'level 25 based on personality'),
+    EvoMethod('other', 'level 25 based on personality'),
+    EvoMethod('other', 'level 25 based on personality'),
+    EvoMethod('other', 'level 25 based on personality'),
+    EvoMethod('other', 'level 25 based on personality'),
 ]
 

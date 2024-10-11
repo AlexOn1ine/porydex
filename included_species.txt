@@ -9,25 +9,24 @@ Wartortle
 Blastoise
 Ekans
 Arbok
+Pichu
 Pikachu
+Raichu
+Raichu-Alola
 Sandshrew
 Sandslash
 Sandshrew-Alola
 Sandslash-Alola
-Nidoran-Female
+Nidoran-F
 Nidorina
 Nidoqueen
-Nidoran-Male
+Nidoran-M
 Nidorino
 Nidoking
-Cleffa
 Clefairy
 Clefable
-Vulpix
-Ninetales
 Vulpix-Alola
 Ninetales-Alola
-Jigglypuff
 Zubat
 Golbat
 Crobat
@@ -35,6 +34,8 @@ Oddish
 Gloom
 Vileplume
 Bellossom
+Venonat
+Venomoth
 Meowth-Galar
 Perrserker
 Psyduck
@@ -49,9 +50,16 @@ Arcanine-Hisui
 Poliwag
 Poliwhirl
 Poliwrath
+Politoed
+Abra
+Kadabra
+Alakazam
 Machop
 Machoke
 Machamp
+Bellsprout
+Weepinbell
+Victreebel
 Tentacool
 Tentacruel
 Geodude
@@ -68,8 +76,7 @@ Slowking
 Magnemite
 Magneton
 Magnezone
-Farfetch'd-Galar
-Sirfetch'd
+Farfetch’d-Galar
 Doduo
 Dodrio
 Grimer-Alola
@@ -79,6 +86,8 @@ Cloyster
 Gastly
 Haunter
 Gengar
+Onix
+Steelix
 Krabby
 Kingler
 Voltorb-Hisui
@@ -89,6 +98,10 @@ Exeggutor-Alola
 Cubone
 Marowak
 Marowak-Alola
+Tyrogue
+Hitmonlee
+Hitmonchan
+Hitmontop
 Rhyhorn
 Rhydon
 Rhyperior
@@ -96,25 +109,19 @@ Kangaskhan
 Horsea
 Seadra
 Kingdra
-Seadra
+Goldeen
+Seaking
 Staryu
 Starmie
-MimeJr
-MrMime
-MrMime-Galar
-MrRime
 Scyther
 Scizor
 Kleavor
-Smoochum
-Jynx
 Elekid
 Electabuzz
 Electivire
-Pinsir
-Taruos-Paldea-Aqua
-Tauros-Paldea-Blaze
-Tauros-Paldea-Combat
+Magby
+Magmar
+Magmortar
 Magikarp
 Gyarados
 Lapras
@@ -127,10 +134,12 @@ Umbreon
 Leafeon
 Glaceon
 Sylveon
+Eevee-Starter
 Omanyte
 Omastar
 Kabuto
 Kabutops
+Aerodactyl
 Dratini
 Dragonair
 Dragonite
@@ -144,14 +153,14 @@ Typhlosion-Hisui
 Totodile
 Croconaw
 Feraligatr
+Hoothoot
+Noctowl
 Ledyba
 Ledian
+Spinarak
+Ariados
 Chinchou
 Lanturn
-Pichu
-Pikachu
-Raichu
-Raichu-Alola
 Togepi
 Togetic
 Togekiss
@@ -160,22 +169,30 @@ Xatu
 Mareep
 Flaaffy
 Ampharos
+Azurill
+Marill
+Azumarill
 Aipom
 Ambipom
+Sunkern
+Sunflora
 Yanma
 Yanmega
+Wooper
+Quagsire
 Murkrow
 Honchkrow
+Misdreavus
+Mismagius
 Girafarig
 Farigiraf
 Pineco
 Forretress
 Dunsparce
 Dudunsparce
+Dudunsparce-Three-Segment
 Gligar
 Gliscor
-Onix
-Steelix
 Snubbull
 Granbull
 Qwilfish-Hisui
@@ -188,6 +205,7 @@ Sneasler
 Teddiursa
 Ursaring
 Ursaluna
+Ursaluna-Bloodmoon
 Swinub
 Piloswine
 Mamoswine
@@ -195,10 +213,9 @@ Houndour
 Houndoom
 Phanpy
 Donphan
-Tyrogue
-Hitmonlee
-Hitmonchan
-Hitmontop
+Stantler
+Wyrdeer
+Miltank
 Larvitar
 Pupitar
 Tyranitar
@@ -231,9 +248,6 @@ Shroomish
 Breloom
 Makuhita
 Hariyama
-Azurill
-Marill
-Azumarill
 Nosepass
 Probopass
 Sableye
@@ -243,8 +257,15 @@ Lairon
 Aggron
 Electrike
 Manectric
+Budew
+Roselia
+Roserade
 Carvanha
 Sharpedo
+Wailmer
+Wailord
+Numel
+Camerupt
 Torkoal
 Spoink
 Grumpig
@@ -259,12 +280,17 @@ Corphish
 Crawdaunt
 Baltoy
 Claydol
-Lileep
-Cradily
 Anorith
 Armaldo
 Feebas
 Milotic
+Shuppet
+Banette
+Duskull
+Dusclops
+Dusknoir
+Chingling
+Chimecho
 Absol
 Spheal
 Sealeo
@@ -272,6 +298,7 @@ Walrein
 Clamperl
 Huntail
 Gorebyss
+Relicanth
 Bagon
 Shelgon
 Salamence
@@ -293,13 +320,10 @@ Staraptor
 Shinx
 Luxio
 Luxray
-Budew
-Roselia
-Roserade
-Chingling
-Chimecho
-Stunky
-Skuntank
+Buizel
+Floatzel
+Shellos
+Gastrodon
 Gible
 Gabite
 Garchomp
@@ -311,7 +335,8 @@ Skorupi
 Drapion
 Croagunk
 Toxicroak
-Carnivine
+Finneon
+Lumineon
 Snivy
 Servine
 Serperior
@@ -320,6 +345,7 @@ Pignite
 Emboar
 Oshawott
 Dewott
+Samurott
 Samurott-Hisui
 Lillipup
 Herdier
@@ -348,8 +374,9 @@ Whimsicott
 Petilil
 Lilligant
 Lilligant-Hisui
-Basculin-Hisui
+Basculin-White-Striped
 Basculegion
+Basculegion-F
 Sandile
 Krokorok
 Krookodile
@@ -359,6 +386,8 @@ Crustle
 Scraggy
 Scrafty
 Sigilyph
+Yamask-Galar
+Runerigus
 Tirtouga
 Carracosta
 Archen
@@ -367,6 +396,11 @@ Zorua
 Zoroark
 Minccino
 Cinccino
+Solosis
+Duosion
+Reuniclus
+Ducklett
+Swanna
 Deerling
 Sawsbuck
 Emolga
@@ -376,15 +410,15 @@ Foongus
 Amoonguss
 Frillish
 Jellicent
+Klink
+Klang
+Klinklang
 Tynamo
 Eelektrik
 Eelektross
 Litwick
 Lampent
 Chandelure
-Stunfisk
-Mienfoo
-Mienshao
 Druddigon
 Pawniard
 Bisharp
@@ -422,8 +456,11 @@ Pancham
 Pangoro
 Espurr
 Meowstic
+Meowstic-F
 Spritzee
 Aromatisse
+Binacle
+Barbaracle
 Skrelp
 Dragalge
 Clauncher
@@ -436,8 +473,8 @@ Hawlucha
 Goomy
 Sliggoo
 Goodra
-Phantump
-Trevenant
+Sliggoo-Hisui
+Goodra-Hisui
 Bergmite
 Avalugg
 Avalugg-Hisui
@@ -462,8 +499,8 @@ Rockruff
 Lycanroc
 Lycanroc-Midnight
 Lycanroc-Dusk
-Mudbray
-Mudsdale
+Dewpider
+Araquanid
 Fomantis
 Lurantis
 Salandit
@@ -474,13 +511,11 @@ Bounsweet
 Steenee
 Tsareena
 Turtonator
-Togedemaru
 Bruxish
 Dhelmise
 Jangmo-o
 Hakamo-o
 Kommo-o
-Tapu Koko
 Tapu Fini
 Poipole
 Naganadel
@@ -498,6 +533,8 @@ Corvisquire
 Corviknight
 Gossifleur
 Eldegoss
+Chewtle
+Drednaw
 Yamper
 Boltund
 Applin
@@ -509,20 +546,22 @@ Arrokuda
 Barraskewda
 Toxel
 Toxtricity
+Toxtricity-Low-Key
 Sizzlipede
 Centiskorch
+Clobbopus
+Grapploct
 Hatenna
 Hattrem
 Hatterene
 Impidimp
 Morgrem
 Grimmsnarl
+Falinks
 Snom
 Frosmoth
 Cufant
 Copperajah
-Dracozolt
-Arctozolt
 Duraludon
 Archaludon
 Dreepy
@@ -539,11 +578,13 @@ Quaxwell
 Quaquaval
 Lechonk
 Oinkologne
+Oinkologne-F
 Nymble
 Lokix
 Pawmi
 Pawmo
 Pawmot
+Maushold
 Nacli
 Naclstack
 Garganacl
@@ -566,41 +607,50 @@ Glimmora
 Flamigo
 Cetoddle
 Cetitan
+Veluza
+Dondozo
 Great Tusk
+Flutter Mane
 Slither Wing
 Sandy Shocks
-Walking Wake
-Gouging Fire
-Raging Bolt
-Flutter Mane
-Roaring Moon
-Sandy Shocks
-Iron Jugulis
-Iron Thorns
 Iron Treads
-Iron Hands
-Iron Moth
-Iron Leaves
-Iron Boulder
-Iron Crown
 Iron Bundle
-Iron Valiant
-Frigibax
-Gimmighoul
-Roaring Moon
-Iron Valiant
-Walking Wake
-Iron Leaves
-Poltchageist
-Gouging Fire
-Raging Bolt
-Iron Boulder
-Iron Crown
-Frigibax
+Iron Hands
+Iron Jugulis
+Iron Moth
+Iron Thorns
 Frigibax
 Arctibax
 Baxcalibur
 Gimmighoul
 Gholdengo
+Gimmighoul-Roaming
+Roaring Moon
+Iron Valiant
+Walking Wake
+Iron Leaves
 Poltchageist
 Sinistcha
+Gouging Fire
+Raging Bolt
+Iron Boulder
+Iron Crown
+Togedemaru
+Farfetch'd-Galar
+Sirfetch'd
+Mime Jr.
+Mr. Rime
+Mr. Mime
+Mr. Mime-Galar
+Tapu Koko
+Tapu Tapu Fini
+Tapu Tapu Lele
+Tapu Tapu Bulu
+Ogerpon
+Ogerpon-Cornerstone
+Ogerpon-Hearthflame
+Ogerpon-Wellspring
+Tornadus
+Thundurus
+Landorus
+Enamorus

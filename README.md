@@ -5,7 +5,9 @@ for use in a custom Pokémon Showdown Pokédex for your fan-game. Additionally,
 it provides a modified version of the official Pokémon Showdown Pokédex as
 a base for extracted data.
 
-Thanks to [the original Pokémon Showdown Pokédex](https://dex.pokemonshowdown.com) for the base implementation.
+[Created by Lhearachel](https://github.com/lhearachel/porydex)
+
+Thanks to  [the original Pokémon Showdown Pokédex](https://dex.pokemonshowdown.com) for the base implementation.
 
 ## Requirements
 
