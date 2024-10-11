@@ -117,7 +117,26 @@ body {
     border-bottom: 3px solid #03396c;
 }
 
-/* .content-table tbody tr.active-row {
-    font-weight: bold;
-    color: #009879;
-} */
+.resources {
+    background-color: #14191f;
+    color: #c8c8d8;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 10px;
+    border-top: 10px #14191f solid;
+    border-bottom: 20px #14191f solid;
+    border-left: 40px #14191f solid;
+    border-right: 40px #14191f solid;
+    border-radius: 10px;
+
+}
+
+.resources h1 {
+    color: #ffcb5a;
+    text-align: left;
+}
+
+.resources p {
+    margin: 3px;
+    margin-left: 30px;
+}
