@@ -1,0 +1,123 @@
+* {
+    /* Change your font family */
+    font-family: sans-serif;
+}
+
+body {
+    /* background-color: #1e1e2e; */
+    /* background-color: #1e1e2e; */
+    /* background-color: #14191f; */
+    /* background-color: #313131; */
+    background-color: #fff;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #14191f;
+}
+
+.navbar ul {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+}
+
+.navbar a {
+    float: left;
+    color: #ffcb5a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    color: #ddd;
+}
+
+
+/* .navbar a.active {
+    color: black;
+} */
+
+.container {
+    /* padding-top: 20px; */
+    padding-left: 40px;
+}
+
+.location {
+    text-align: center;
+    font-size: 17px;
+    color: black;
+}
+
+.line {
+    /* background-color: #14191f;
+    color: #c5c5c5;
+    font-size: 16px;
+    overflow: hidden;
+    max-width: 950px; */
+    margin-left: auto;
+    margin-right: auto;
+    height: 2px;
+    border: 0;
+    background: black;
+    max-width: 600px;
+}
+
+.content-table {
+    border-collapse: collapse;
+    margin: 20px 0;
+    /* margin-left: 40px; */
+    font-size: 1em;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    /* min-width: 400px; */
+    border-radius: 5px 5px 0 0;
+    border-radius: 15px;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.20);
+    /* margin-left: auto;
+    margin-right: auto; */
+}
+
+.content-table thead tr {
+    background-color: #434343;
+    color: #dddddd;
+    text-align: center;
+    font-weight: bold;
+}
+
+.caption-content {
+    background-color: #0f1419;
+    padding: 5px 15px;
+    color: #ffcb5a;
+    text-align: center;
+    font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+    border: 1px solid #000;
+    min-width: 130px;
+    padding: 3px 15px;
+    text-align: center;
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid #000;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+    background-color: #dddddd;
+}
+
+.content-table tbody tr:last-of-type {
+    border-bottom: 3px solid #03396c;
+}
+
+/* .content-table tbody tr.active-row {
+    font-weight: bold;
+    color: #009879;
+} */
