@@ -52,7 +52,7 @@ var PokedexSearchPanel = Panels.Panel.extend({
 				$searchbox.attr('placeholder', 'Search moves OR filter by type, category, pokemon');
 				this.$('.buttonbar').remove();
 			} else if (fragment === 'encounters/') {
-				search.setType('encounters');
+				search.setType('location');
 				$searchbox.attr('placeholder', 'Search encounters OR filter by type, category, pokemon');
 				this.$('.buttonbar').remove();
             }

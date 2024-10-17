@@ -12,6 +12,8 @@ body {
 }
 
 .navbar {
+    position: sticky;
+    top: 0;
     overflow: hidden;
     background-color: #14191f;
 }
