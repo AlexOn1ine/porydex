@@ -10342,7 +10342,7 @@
     "secondary": null,
     "target": "normal",
     "type": "Ice",
-    "desc": "Ends the effects of Electric Terrain, Grassy Terrain, Misty Terrain, and Psychic Terrain.",
+    "desc": "No additional effect.",
     "shortDesc": "Ends the effects of terrain."
   },
   "iciclecrash": {
